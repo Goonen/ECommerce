@@ -1,0 +1,17 @@
+D:\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.deps.json
+D:\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.runtimeconfig.json
+D:\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.dll
+D:\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.pdb
+D:\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Core.dll
+D:\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Core.pdb
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.AssemblyInfo.cs
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerc.B0B31267.Up2Date
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.dll
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\refint\ECommerce.Infrastructure.dll
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.pdb
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.genruntimeconfig.cache
+D:\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net8.0\ref\ECommerce.Infrastructure.dll
